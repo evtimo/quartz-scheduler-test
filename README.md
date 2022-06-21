@@ -1,6 +1,6 @@
 ## Getting Started
 
-This is a small Spring Boot, that allows to get data by configurable Quartz-scheduler from external API, store currency data in H2 locally and get exchange rates.
+This is a small Spring Boot app, that allows to get data by configurable Quartz-scheduler from external API, store currency data in H2 locally and calculate exchange rates.
 
 ## Getting Start
 
