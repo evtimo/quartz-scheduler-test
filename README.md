@@ -38,4 +38,4 @@ http://localhost:8080/swagger-ui.html
 * [OpenAPI](https://github.com/springdoc/springdoc-openapi) - for API Documentation
 
 
-![image](https://user-images.githubusercontent.com/22182922/174703399-cca17571-668d-4e11-9866-a58e1551fe1b.png)
+![image](https://user-images.githubusercontent.com/22182922/174703523-0994a92f-6e79-4335-8af5-e1266b87fa0c.png)
