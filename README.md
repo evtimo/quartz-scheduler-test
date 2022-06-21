@@ -27,7 +27,7 @@ http://localhost:8080/swagger-ui.html
 ## Acceptance testing
 
 1. Run the application, check logs in console - data was saved from external API as soons as app was started
-2. Check correctness of "GET /test/exchange" endpoint in [swagger](http://localhost:8080/swagger-ui.html) (no need in Curl or Postman, just SwaggerUI)
+2. Check correctness of "GET /test/exchange" endpoint in [swagger](http://localhost:8080/swagger-ui.html) (no need in Curl or Postman, just execute in SwaggerUI)
 3. Wait for ~1 min and run "GET /scheduler/execute" endpoint for data sync (exchange rates update)
 4. Check that "GET /test/exchange" endpoint responses updated values for rates
 
