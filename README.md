@@ -13,7 +13,7 @@ Clone and open the repository in IDE as a Maven project
 
 ## Install & Run
 
-Before running, check the _apiKey_ and choose _currencies_ in **application.properties** file!
+Before running, check the `apiKey` and choose `currencies` in **application.properties** file!
 
 ```sh
 $  mvn spring-boot:run
