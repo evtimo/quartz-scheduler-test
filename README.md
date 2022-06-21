@@ -36,3 +36,6 @@ http://localhost:8080/swagger-ui.html
 * [Quartz](quartz-scheduler.org) - for Update Data Scheduler
 * [QueryDsl](http://www.querydsl.com/) - for dynamic queries
 * [OpenAPI](https://github.com/springdoc/springdoc-openapi) - for API Documentation
+
+
+![image](https://user-images.githubusercontent.com/22182922/174703399-cca17571-668d-4e11-9866-a58e1551fe1b.png)
